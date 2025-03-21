@@ -1,0 +1,2 @@
+expense, 3300.0, income, 2024-04-03
+ergjierg, 345345.0, income, 2020-03-03

@@ -1,0 +1,16 @@
+{
+    "expense": [
+        {
+            "amount": 3300.0,
+            "type": "income",
+            "date": "2024-04-03"
+        }
+    ],
+    "ergjierg": [
+        {
+            "amount": 345345.0,
+            "type": "income",
+            "date": "2020-03-03"
+        }
+    ]
+}
